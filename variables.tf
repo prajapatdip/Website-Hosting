@@ -1,3 +1,3 @@
 variable "bucket_name" {
-  default = "mywebhosting"
+  default = "dipwebhosting"
 }
