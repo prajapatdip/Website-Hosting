@@ -1,6 +1,9 @@
 # Static Website Hosting on AWS S3 & CloudFront with Terraform
 
 This Terraform script allows you to set up a static website hosting solution on Amazon S3 with CloudFront distribution. The CloudFront distribution provides low-latency access to your static content while taking advantage of Amazon S3's durability and scalability.
+
+![WebHosting](https://github.com/prajapatdip/Website-Hosting/assets/104031556/6b4a8613-77f5-49be-8332-de3feb3ec539)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following prerequisites:
